@@ -2,7 +2,7 @@
 
 ### Hi there, I’m Tatiana 👋
 - :seedling: After 10 years of working in tech in Product Management roles I have decided to switch careers in to Engineering 
-- :clubs: I’m currently doing a Software Engineering Bootcamp @ Makers Academy (Jan'22 Graduation)
+- :clubs: I have recently graduated from @ Makers Academy Bootcamp (Jan'22)
 - :round_pushpin: UK :uk: based
  
 
