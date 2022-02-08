@@ -1,12 +1,10 @@
-:construction: - WIP 
-
 ### Hi there, I’m Tatiana 👋
 - :seedling: After 10 years of working in tech in Product Management roles I have decided to switch careers in to Engineering 
 - :clubs: I have recently graduated from @ Makers Academy Bootcamp (Jan'22)
 - :round_pushpin: UK :uk: based
+- 👩🏻‍💻 Looking for a junior full stack software engineer role 
+- :octocat: Please see my detailed CV [here](https://github.com/tatiananantes/CV) or alternatively my LinkedIn [profile](https://www.linkedin.com/in/tatiananantes/).
  
-
-
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftatiananantes&countColor=%23dce775)
 
