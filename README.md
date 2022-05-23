@@ -1,8 +1,8 @@
 ### Hi there, I’m Tatiana 👋
 - :seedling: After 10 years of working in tech in Product Management roles I have decided to switch careers in to Engineering 
-- :clubs: I have recently graduated from @ Makers Academy Bootcamp (Jan'22)
+- :clubs: I have graduated from @ Makers Academy Bootcamp (Jan'22)
 - :round_pushpin: UK :uk: based
-- 👩🏻‍💻 Looking for a junior full stack software engineer role 
+- 👩🏻‍💻 Software Engineer @YardLink since March'22 
 - :octocat: Please see my detailed CV [here](https://github.com/tatiananantes/CV) or alternatively my LinkedIn [profile](https://www.linkedin.com/in/tatiananantes/).
  
 
