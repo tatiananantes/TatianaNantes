@@ -3,7 +3,7 @@
 - :clubs: I have graduated from @ Makers Academy Bootcamp (Jan'22)
 - :round_pushpin: UK :uk: based
 - 👩🏻‍💻 Software Engineer @YardLink since March'22 
-- :octocat: Please see my detailed CV [here](https://github.com/tatiananantes/CV) or alternatively my LinkedIn [profile](https://www.linkedin.com/in/tatiananantes/).
+- :octocat: LinkedIn [profile](https://www.linkedin.com/in/tatiananantes/)
  
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftatiananantes&countColor=%23dce775)
